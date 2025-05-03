@@ -1,16 +1,17 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">OLá 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Meu nome é Julia e sou estudante de Sistemas de Informação</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🎓 Estou atualmente no **3º período de Sistemas de Informação** <br>📚 Estou aprendendo **JavaScript, Phyton, C, Java, SQL**<br>🎯 Tenho interesse na **área de dados**, especialmente em **análise e visualização de dados**  <br>🎲 Gosto de ouvir música lo-fi enquanto estudo!
+</p>
 
 ###
 
