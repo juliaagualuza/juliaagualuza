@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Estou atualmente no **3º período de Sistemas de Informação** <br>📚 Estou aprendendo **JavaScript, Phyton, C, Java, SQL**<br>🎯 Tenho interesse na **área de dados**, especialmente em **análise e visualização de dados**  <br>🎲 Gosto de ouvir música lo-fi enquanto estudo!
+<p align="left">🎓 Estou atualmente no 3º período de Sistemas de Informação <br>📚 Estou aprendendo JavaScript, Phyton, C, Java, SQL<br>🎯 Tenho interesse na área de dados, especialmente em análise e visualização de dados* <br>🎲 Gosto de ouvir músicas calmas enquanto estudo!
 </p>
 
 ###
