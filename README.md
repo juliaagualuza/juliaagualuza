@@ -2,16 +2,6 @@
 
 ###
 
-<p align="left">Meu nome é Julia e sou estudante de Sistemas de Informação.</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left"># Olá! 👋
-
 Sou Júlia, estudante de Sistemas de Informação e atualmente atuo como
 Estagiária de Banco de Dados.
 
