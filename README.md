@@ -30,7 +30,6 @@ Estagiária de Banco de Dados.
 - Excel
 - 
 ## 🎯 Objetivo
-
 Busco oportunidades como Analista de Dados Júnior, com foco em SQL,
 Power BI, Excel e Python.
 </p>
