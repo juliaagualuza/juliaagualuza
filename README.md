@@ -5,8 +5,7 @@
 Sou Júlia, estudante de Sistemas de Informação e atualmente atuo como
 Estagiária de Banco de Dados.
 
-Tenho interesse em Análise de Dados e em transformar dados em informações
-que apoiem decisões de negócio.
+"Tenho experiência prática com bancos de dados e interesse em Análise de Dados, Business Intelligence e visualização de dados."
 
 ## 📊 Sobre mim
 
@@ -16,7 +15,7 @@ que apoiem decisões de negócio.
 - 📊 Excel e Power BI
 - 🐍 Python e Pandas
 - 📈 Análise e visualização de dados
-- 🔄 Interesse em ETL, automação e Business Intelligence
+
 
 ## 🛠️ Tecnologias
 
