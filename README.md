@@ -29,21 +29,7 @@ que apoiem decisões de negócio.
 - DAX
 - Power Query
 - Excel
-
-**Outros**
-- Git
-- GitHub
-
-## 📁 Projetos
-
-### 📊 Análise de Vendas
-Projeto de análise de dados utilizando Python, Pandas, SQL e modelagem
-dimensional.
-
-### 📈 Dashboard de Vendas
-Dashboard desenvolvido no Power BI para análise de vendas, clientes,
-produtos e pagamentos.
-
+- 
 ## 🎯 Objetivo
 
 Busco oportunidades como Analista de Dados Júnior, com foco em SQL,
